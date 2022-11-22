@@ -14,4 +14,10 @@ body {
 #cabecalho {
     top: 0px;
     position: fixed;
+    background: rgb(0,0,0) linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(18,140,39,1) 18%, rgba(15,132,35,1) 60%, rgba(16,138,37,1) 67%, rgba(0,0,0,1) 97%);
+    width: 100%;
+}
+
+#titulo, .menu-cabecalho {
+    color: white;
 }
