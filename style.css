@@ -48,7 +48,7 @@ body {
 }
 
 .card {
-    width: 520px;
+    width: 534px;
     display: flex;
     flex-direction: column;
     margin: auto;
@@ -69,11 +69,11 @@ body {
     display: flex;
     margin-bottom: 60px;
     margin-left: 12px;
-    margin-top: 40px;
+    margin-top: 44px;
 }
 
 #licoes_aprendidas {
-    margin-left: 30px;
+    margin-left: 23px;
 }
 
 #licoes_a_aprender {
