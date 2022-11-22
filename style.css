@@ -38,11 +38,13 @@ body {
 
 #titulo {
     text-align: center;
+    margin-left: 20px;
 }
 
 .minha-foto {
     width: 150px;
     margin: auto;
+    
 }
 
 .card {
