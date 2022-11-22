@@ -34,13 +34,26 @@ body {
     align-items: center;
     gap: 20px;
     margin-right: 20px;
-    /* margin-left: 20px;
-    margin-top: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center; */
 }
 
 #titulo {
     text-align: center;
+}
+
+.minha-foto {
+    width: 150px;
+    margin: auto;
+}
+
+.card {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 84px;
+}
+
+.meu-nome {
+    margin-top: 20px;
+    margin: auto;
 }
