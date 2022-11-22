@@ -44,7 +44,7 @@ body {
 .minha-foto {
     width: 150px;
     margin: auto;
-    
+    margin-top: 14px;
 }
 
 .card {
@@ -53,9 +53,14 @@ body {
     flex-direction: column;
     margin: auto;
     margin-top: 84px;
+    box-shadow: 1px -2px 14px -3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px -2px 14px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px -2px 14px -3px rgba(0,0,0,0.75);
+    border-radius: 15px;
 }
 
 .meu-nome {
     margin: auto;
     margin-top: 15px;
+    margin-bottom: 10px;
 }
