@@ -95,7 +95,7 @@ body {
     display: flex;
 }
 
-.artigo {
+#artigo {
     margin-top: 63px;
    margin-left: 20px;
    width: 874px;
@@ -132,4 +132,16 @@ aside h2 {
     margin-bottom: -22px;
     margin-top: -10px;
     font-family: 'Indie Flower', cursive;
+}
+
+.scroll {
+    margin-top: 77px;
+    margin-left: 87px;
+}
+
+#scroll-word {
+    font-family: 'Indie Flower', cursive;
+    margin-left: 46px;
+    margin-top: 8px;
+    font-size: 28px;
 }
