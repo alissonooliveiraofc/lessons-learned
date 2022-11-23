@@ -111,8 +111,20 @@ body {
     border-radius: 15px;
     height: 217px;
     float: left;
+    padding: 26px;
 }
 
 article h2 {
     margin-bottom: 10px;
+}
+
+aside p {
+    margin: -8px;
+    width: 248px;
+    margin-top: 27px;
+}
+
+aside h2 {
+    margin-bottom: -22px;
+    margin-top: -10px;
 }
