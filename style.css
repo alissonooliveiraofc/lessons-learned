@@ -86,5 +86,7 @@ body {
 }
 
 .div-logos {
-    margin: auto;
+    margin: -40px auto;
+    margin-bottom: 15px;
+    display: flex;
 }
