@@ -5,6 +5,7 @@
 
 body {
     background-color: rgb(253, 251, 251);
+    width: 100%;
 }
 
 .menu-cabecalho {
@@ -89,4 +90,29 @@ body {
     margin: -40px auto;
     margin-bottom: 15px;
     display: flex;
+}
+
+.artigo {
+    margin-top: 63px;
+   margin-left: 20px;
+   width: 874px;
+   margin-bottom: 17px;
+}
+
+.menu-lateral {
+    width: 229px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 61px;
+    margin-top: -422px;
+    box-shadow: 1px -2px 14px -3px rgb(0 0 0 / 75%);
+    -webkit-box-shadow: 1px -2px 14px -3px rgb(0 0 0 / 75%);
+    -moz-box-shadow: 1px -2px 14px -3px rgba(0,0,0,0.75);
+    border-radius: 15px;
+    height: 217px;
+    float: left;
+}
+
+article h2 {
+    margin-bottom: 10px;
 }
