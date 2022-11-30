@@ -7,6 +7,7 @@
 body {
     background-color: rgb(253, 251, 251);
     width: 100%;
+    margin-top: -7px;
 }
 
 .menu-cabecalho {
@@ -100,7 +101,7 @@ body {
 #artigo {
    margin-top: 63px;
    margin-left: 20px;
-   width: 874px;
+   width: 907px;
    margin-bottom: 17px;
 }
 
@@ -144,7 +145,7 @@ aside h2 {
 
 #scroll-word {
     font-family: 'Indie Flower', cursive;
-    margin-left: 46px;
-    margin-top: 8px;
+    margin-left: 45px;
+    margin-top: -5px;
     font-size: 28px;
 }
