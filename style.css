@@ -79,10 +79,12 @@ body {
 
 #licoes_aprendidas {
     margin-left: 23px;
+    line-height: 18px;
 }
 
 #licoes_a_aprender {
     margin-left: 72px;
+    line-height: 18px;
 }
 
 .redes-sociais {
