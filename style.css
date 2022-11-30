@@ -104,7 +104,7 @@ body {
    margin-bottom: 17px;
 }
 
-.menu-lateral {
+.lado-direito {
     width: 229px;
     display: flex;
     flex-direction: column;
