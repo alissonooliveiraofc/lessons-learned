@@ -107,7 +107,7 @@ body {
 
 #card-2 {
     width: 229px;
-    display: flex;
+    /* display: flex; */
     flex-direction: column;
     margin-left: 61px;
     margin-top: 65px;
@@ -117,7 +117,7 @@ body {
     -moz-box-shadow: 1px -2px 14px -3px rgba(0,0,0,0.75);
     border-radius: 15px;
     height: 163px;
-    float: right;
+    /* float: right; */
     padding: 26px;
 }
 
