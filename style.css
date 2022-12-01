@@ -100,13 +100,13 @@ body {
 
 #artigo {
    margin-top: 63px;
-   margin-left: 5px;
+   margin-left: 21px;
    width: 907px;
    margin-bottom: 17px;
 }
 
 #card-2 {
-    width: 229px;
+    width: 222px;
     /* display: flex; */
     flex-direction: column;
     margin-left: 61px;
