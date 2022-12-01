@@ -152,4 +152,7 @@ aside h2 {
 
 .side-a-side {
     display: flex;
+    margin-top: 60px;
+    margin-left: 321px;
+    width: 771px;
 }
